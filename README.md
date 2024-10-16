@@ -47,9 +47,9 @@ Welcome to my GitHub! I've been coding since I was a child, driven by a lifelong
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhermesn&show_icons=true&theme=radical&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhermesn&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhermesn&layout=compact&theme=radical&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhermesn&layout=compact&theme=transparent)
 
 ## 🔒 Offensive Security
 
