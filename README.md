@@ -57,7 +57,6 @@ I'm deeply interested in offensive security and cybersecurity. I'm actively lear
 
 - **Tools & Techniques**: Metasploit, Nmap, Wireshark, Burp Suite, Kali Linux
 - **Certifications**: Working on it :)
-- **Projects**: Working on them :)
 
 ## ☁️ Cloud Technologies
 
