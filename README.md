@@ -80,14 +80,14 @@ I have hands-on experience with various cloud platforms, enabling me to build, d
 
 ## 📚 Education
 - **Bachelor of Software Engineering**  
-  Universidade do Estado do Pará (UEPA) - 1/8
+  Universidade do Estado do Pará (UEPA) - 2/8
 
 ## 🤝 Let's Connect!
 Feel free to reach out to me if you want to collaborate, discuss tech and security, or just say hi!
 
-- **Email**: [jhermesn@jorgehermes.me](mailto:jhermesn@jorgehermes.me)
+- **Email**: [jorgejhermesn@gmail.com](mailto:jorgejhermesn@gmail.com)
 - **LinkedIn**: [linkedin.com/in/jhermesn](https://linkedin.com/in/jhermesn)
-- **Portfolio**: [jorgehermes.me](https://jorgehermes.me)
+- **Portfolio**: [jhermesn.github.io](https://jhermesn.github.io)
 
 ---
 
