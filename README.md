@@ -32,7 +32,7 @@
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:jorgehermes@jhermesnd.dev" target="_blank" style="text-decoration: none;">
+  <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
     <img
       src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/gmail.svg"
       alt="Gmail"
