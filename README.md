@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h3 align="center">👋 Welcome to my GitHub!</h1>
 
 <div align="center">
   <a href="https://dev.to/jhermesn" target="_blank">
