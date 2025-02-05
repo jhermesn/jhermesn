@@ -1,5 +1,5 @@
 <h1 align="center">👋Welcome to my GitHub!</h1>
-
+	
 ###
 
 <br clear="both">
@@ -124,7 +124,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhermesn&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhermesn&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=MyStats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhermesn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jhermesn&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jhermesn&theme=darkhub&column=4&row=2&no-frame=true&no-bg=false&margin-w=48&margin-h=0" height="150" alt="trophy graph"  />
