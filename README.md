@@ -37,7 +37,6 @@
   📬 Feel free to reach out! Let's build something awesome together.
 </p>
 
----
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -267,7 +266,6 @@
 
 </div>
 
----
 
 <h3 align="left">🔥 My Stats</h3>
 
