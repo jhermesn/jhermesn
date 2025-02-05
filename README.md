@@ -1,10 +1,4 @@
 <h1 align="center">👋Welcome to my GitHub!</h1>
-	
-###
-
-<br clear="both">
-
-<img align="left" height="350" src="https://jhermesn.dev/perfil.png"  />
 
 ###
 
