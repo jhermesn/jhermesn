@@ -1,23 +1,64 @@
 <h1 align="center" style="text-decoration: none; border-bottom: none;">👋 Welcome to my GitHub!</h1>
 
-<div align="center">
-  <a href="https://dev.to/jhermesn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" />
+<div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
+  <!-- Dev.to -->
+  <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/devdotto.svg"
+      alt="Dev.to"
+      height="40"
+      style="fill: #0A0A0A;"
+    />
   </a>
-  <a href="https://instagram.com/jhermesn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/jhermesn" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/instagram.svg"
+      alt="Instagram"
+      height="40"
+      style="fill: #E4405F;"
+    />
   </a>
-  <a href="https://linkedin.com/in/jhermesn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/linkedin.svg"
+      alt="LinkedIn"
+      height="40"
+      style="fill: #0077B5;"
+    />
   </a>
-  <a href="mailto:jorgehermes@jhermesnd.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  
+  <!-- Gmail -->
+  <a href="mailto:jorgehermes@jhermesnd.dev" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/gmail.svg"
+      alt="Gmail"
+      height="40"
+      style="fill: #EA4335;"
+    />
   </a>
-  <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
+  
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/stackoverflow.svg"
+      alt="Stack Overflow"
+      height="40"
+      style="fill: #FE7A16;"
+    />
   </a>
-  <a href="https://tryhackme.com/p/jhermesn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
+  
+  <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/tryhackme.svg"
+      alt="TryHackMe"
+      height="40"
+      style="fill: #212C42;"
+    />
   </a>
 </div>
 
