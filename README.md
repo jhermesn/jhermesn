@@ -1,4 +1,4 @@
-<h1 align="center" style="text-decoration: none;">👋 Welcome to my GitHub!</h1>
+<h1 align="center">👋 Welcome to my GitHub!</h1>
 
 <div align="center">
   <a href="https://dev.to/jhermesn" target="_blank">
@@ -48,7 +48,6 @@
   <!-- ======================== -->
   <!-- PROGRAMMING LANGUAGES -->
   <!-- ======================== -->
-  <h4>Programming Languages</h4>
   <!-- C -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
   <!-- Go -->
@@ -69,7 +68,6 @@
   <!-- ======================== -->
   <!-- WEB & MARKUP LANGUAGES -->
   <!-- ======================== -->
-  <h4>Web & Markup</h4>
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <!-- CSS3 -->
@@ -84,7 +82,6 @@
   <!-- ======================== -->
   <!-- SCRIPTING & CLI TOOLS  -->
   <!-- ======================== -->
-  <h4>Scripting & CLI Tools</h4>
   <!-- Bash -->
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash Script" />
   <!-- Windows Terminal -->
@@ -95,7 +92,6 @@
   <!-- ======================== -->
   <!-- FRONTEND FRAMEWORKS     -->
   <!-- ======================== -->
-  <h4>Frontend Frameworks & Libraries</h4>
   <!-- React -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <!-- Vue.js -->
@@ -112,7 +108,6 @@
   <!-- ======================== -->
   <!-- BACKEND FRAMEWORKS      -->
   <!-- ======================== -->
-  <h4>Backend Frameworks & Tools</h4>
   <!-- NodeJS -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
   <!-- FastAPI -->
@@ -123,7 +118,6 @@
   <!-- ======================== -->
   <!-- MOBILE DEVELOPMENT      -->
   <!-- ======================== -->
-  <h4>Mobile Development</h4>
   <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
   <!-- Dart -->
@@ -134,7 +128,6 @@
   <!-- ======================== -->
   <!-- DATABASES               -->
   <!-- ======================== -->
-  <h4>Databases</h4>
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <!-- PostgreSQL -->
@@ -151,7 +144,6 @@
   <!-- ======================== -->
   <!-- CLOUD & HOSTING         -->
   <!-- ======================== -->
-  <h4>Cloud & Hosting</h4>
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <!-- Azure -->
@@ -170,7 +162,6 @@
   <!-- ======================== -->
   <!-- DEVOPS & CI/CD          -->
   <!-- ======================== -->
-  <h4>DevOps & CI/CD</h4>
   <!-- Docker -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <!-- Kubernetes -->
@@ -189,7 +180,6 @@
   <!-- ======================== -->
   <!-- WEB SERVERS             -->
   <!-- ======================== -->
-  <h4>Web Servers</h4>
   <!-- Apache -->
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
   <!-- Nginx -->
@@ -200,7 +190,6 @@
   <!-- ======================== -->
   <!-- CMS & BUILDERS          -->
   <!-- ======================== -->
-  <h4>CMS & Site Builders</h4>
   <!-- WordPress -->
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress" />
   <!-- Joomla -->
@@ -211,7 +200,6 @@
   <!-- ======================== -->
   <!-- CODE QUALITY & UTILs    -->
   <!-- ======================== -->
-  <h4>Code Quality & Utilities</h4>
   <!-- ESLint -->
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
   <!-- Prettier -->
@@ -232,7 +220,6 @@
   <!-- ======================== -->
   <!-- MONITORING & ANALYTICS  -->
   <!-- ======================== -->
-  <h4>Monitoring & Analytics</h4>
   <!-- Grafana -->
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <!-- Power BI -->
@@ -243,7 +230,6 @@
   <!-- ======================== -->
   <!-- INFRA & SECURITY        -->
   <!-- ======================== -->
-  <h4>Infra & Security</h4>
   <!-- Cloudflare -->
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <!-- TOR -->
@@ -258,7 +244,6 @@
   <!-- ======================== -->
   <!-- PROJECT MGMT & COLLAB   -->
   <!-- ======================== -->
-  <h4>Project Management & Collaboration</h4>
   <!-- Jira -->
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <!-- Notion -->
@@ -273,7 +258,6 @@
   <!-- ======================== -->
   <!-- DESIGN & MEDIA          -->
   <!-- ======================== -->
-  <h4>Design & Media</h4>
   <!-- Adobe -->
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" />
   <!-- Figma -->
