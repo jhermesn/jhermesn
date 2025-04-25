@@ -3,64 +3,95 @@
 <div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
   <!-- Dev.to -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/devdotto.svg"
-      alt="Dev.to"
-      height="40"
-      style="fill: #0A0A0A;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/devdotto/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/devdotto/0A0A0A"
+        alt="Dev.to"
+        height="40"
+      />
+    </picture>
   </a>
-  
+
   <!-- Instagram -->
   <a href="https://instagram.com/jhermesn" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/instagram.svg"
-      alt="Instagram"
-      height="40"
-      style="fill: #E4405F;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/instagram/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/instagram/E4405F"
+        alt="Instagram"
+        height="40"
+      />
+    </picture>
   </a>
-  
+
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/linkedin.svg"
-      alt="LinkedIn"
-      height="40"
-      style="fill: #0077B5;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/linkedin/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/linkedin/0077B5"
+        alt="LinkedIn"
+        height="40"
+      />
+    </picture>
   </a>
-  
+
   <!-- Gmail -->
   <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/gmail.svg"
-      alt="Gmail"
-      height="40"
-      style="fill: #EA4335;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/gmail/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/gmail/EA4335"
+        alt="Gmail"
+        height="40"
+      />
+    </picture>
   </a>
-  
+
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/stackoverflow.svg"
-      alt="Stack Overflow"
-      height="40"
-      style="fill: #FE7A16;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/stackoverflow/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/stackoverflow/FE7A16"
+        alt="Stack Overflow"
+        height="40"
+      />
+    </picture>
   </a>
-  
+
   <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@9.13.0/icons/tryhackme.svg"
-      alt="TryHackMe"
-      height="40"
-      style="fill: #212C42;"
-    />
+    <picture>
+      <source
+        srcset="https://cdn.simpleicons.org/tryhackme/FFFFFF"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://cdn.simpleicons.org/tryhackme/212C42"
+        alt="TryHackMe"
+        height="40"
+      />
+    </picture>
   </a>
 </div>
+
 
 <h3 align="left">👩‍💻 About Me</h3>
 
