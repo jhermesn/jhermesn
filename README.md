@@ -4,70 +4,51 @@
 
   <!-- Dev.to -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://cdn.simpleicons.org/devdotto/FFFFFF" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://cdn.simpleicons.org/devdotto/0A0A0A" />
-      <img alt="Dev.to"
-           src="https://cdn.simpleicons.org/devdotto/0A0A0A"
-           height="40" />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF"
+      alt="Dev.to"
+      height="40"
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://cdn.simpleicons.org/linkedin/FFFFFF" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://cdn.simpleicons.org/linkedin/0077B5" />
-      <img alt="LinkedIn"
-           src="https://cdn.simpleicons.org/linkedin/0077B5"
-           height="40" />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF"
+      alt="LinkedIn"
+      height="40"
+    />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://cdn.simpleicons.org/gmail/FFFFFF" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://cdn.simpleicons.org/gmail/EA4335" />
-      <img alt="Gmail"
-           src="https://cdn.simpleicons.org/gmail/EA4335"
-           height="40" />
-    </picture>
+  <a href="mailto:jorgehermes@jhermesn.dev" style="text-decoration: none;">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335/FFFFFF"
+      alt="Gmail"
+      height="40"
+    />
   </a>
 
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://cdn.simpleicons.org/stackoverflow/FFFFFF" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://cdn.simpleicons.org/stackoverflow/FE7A16" />
-      <img alt="Stack Overflow"
-           src="https://cdn.simpleicons.org/stackoverflow/FE7A16"
-           height="40" />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/stackoverflow/FE7A16/FFFFFF"
+      alt="Stack Overflow"
+      height="40"
+    />
   </a>
 
   <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://cdn.simpleicons.org/tryhackme/FFFFFF" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://cdn.simpleicons.org/tryhackme/212C42" />
-      <img alt="TryHackMe"
-           src="https://cdn.simpleicons.org/tryhackme/212C42"
-           height="40" />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/tryhackme/212C42/FFFFFF"
+      alt="TryHackMe"
+      height="40"
+    />
   </a>
 
 </div>
+
 
 <h3 align="left">👩‍💻 About Me</h3>
 
