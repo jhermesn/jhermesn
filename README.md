@@ -2,16 +2,16 @@
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
 
-  <!-- Dev.to -->
+  <!-- Dev.to (slug: dev-dot-to) -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF"
+      src="https://cdn.simpleicons.org/dev-dot-to/0A0A0A/FFFFFF"
       alt="Dev.to"
       height="40"
     />
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (slug: linkedin) -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
     <img
       src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF"
@@ -20,8 +20,8 @@
     />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:jorgehermes@jhermesn.dev" style="text-decoration: none;">
+  <!-- Gmail (slug: gmail) -->
+  <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
     <img
       src="https://cdn.simpleicons.org/gmail/EA4335/FFFFFF"
       alt="Gmail"
@@ -29,7 +29,7 @@
     />
   </a>
 
-  <!-- Stack Overflow -->
+  <!-- Stack Overflow (slug: stackoverflow) -->
   <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
     <img
       src="https://cdn.simpleicons.org/stackoverflow/FE7A16/FFFFFF"
@@ -38,7 +38,7 @@
     />
   </a>
 
-  <!-- TryHackMe -->
+  <!-- TryHackMe (slug: tryhackme) -->
   <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
     <img
       src="https://cdn.simpleicons.org/tryhackme/212C42/FFFFFF"
@@ -48,6 +48,7 @@
   </a>
 
 </div>
+
 
 
 <h3 align="left">👩‍💻 About Me</h3>
