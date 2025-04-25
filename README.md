@@ -5,7 +5,7 @@
   <!-- Dev.to -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF"
+      src="https://api.iconify.design/simple-icons:dev-dot-to.svg?color=%230A0A0A&color.dark=%23FFFFFF"
       alt="Dev.to"
       height="40"
     />
@@ -14,7 +14,7 @@
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF"
+      src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077B5&color.dark=%23FFFFFF"
       alt="LinkedIn"
       height="40"
     />
@@ -23,7 +23,7 @@
   <!-- Gmail -->
   <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335/FFFFFF"
+      src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335&color.dark=%23FFFFFF"
       alt="Gmail"
       height="40"
     />
@@ -32,7 +32,7 @@
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/stackoverflow/FE7A16/FFFFFF"
+      src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=%23FE7A16&color.dark=%23FFFFFF"
       alt="Stack Overflow"
       height="40"
     />
@@ -41,15 +41,13 @@
   <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
     <img
-      src="https://cdn.simpleicons.org/tryhackme/212C42/FFFFFF"
+      src="https://api.iconify.design/simple-icons:tryhackme.svg?color=%23212C42&color.dark=%23FFFFFF"
       alt="TryHackMe"
       height="40"
     />
   </a>
 
 </div>
-
-
 
 <h3 align="left">👩‍💻 About Me</h3>
 
