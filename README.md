@@ -7,9 +7,9 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://api.iconify.design/simple-icons:dev-dot-to.svg?height=40&color=%23FFFFFF" />
+        srcset="https://api.iconify.design/lineicons:dev.svg?height=40&color=%23FFFFFF" />
       <img
-        src="https://api.iconify.design/simple-icons:dev-dot-to.svg?height=40&color=%230A0A0A"
+        src="https://api.iconify.design/lineicons:dev.svg?height=40&color=%230A0A0A"
         alt="Dev.to"
         height="40" />
     </picture>
