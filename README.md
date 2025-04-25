@@ -16,21 +16,6 @@
     </picture>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/jhermesn" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/instagram/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/instagram/E4405F"
-        alt="Instagram"
-        height="40"
-      />
-    </picture>
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
     <picture>
