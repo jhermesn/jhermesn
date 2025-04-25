@@ -1,81 +1,54 @@
 <h1 align="center" style="text-decoration: none; border-bottom: none;">👋 Welcome to my GitHub!</h1>
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
+
   <!-- Dev.to -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/devdotto/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/devdotto/0A0A0A"
-        alt="Dev.to"
-        height="40"
-      />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF"
+      alt="Dev.to"
+      height="40"
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jhermesn/" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/linkedin/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/linkedin/0077B5"
-        alt="LinkedIn"
-        height="40"
-      />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0077B5/FFFFFF"
+      alt="LinkedIn"
+      height="40"
+    />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/gmail/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/gmail/EA4335"
-        alt="Gmail"
-        height="40"
-      />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335/FFFFFF"
+      alt="Gmail"
+      height="40"
+    />
   </a>
 
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/18777403/jorge-hermes" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/stackoverflow/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/stackoverflow/FE7A16"
-        alt="Stack Overflow"
-        height="40"
-      />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/stackoverflow/FE7A16/FFFFFF"
+      alt="Stack Overflow"
+      height="40"
+    />
   </a>
 
   <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/jhermesn" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://cdn.simpleicons.org/tryhackme/FFFFFF"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://cdn.simpleicons.org/tryhackme/212C42"
-        alt="TryHackMe"
-        height="40"
-      />
-    </picture>
+    <img
+      src="https://cdn.simpleicons.org/tryhackme/212C42/FFFFFF"
+      alt="TryHackMe"
+      height="40"
+    />
   </a>
+
 </div>
+
 
 
 <h3 align="left">👩‍💻 About Me</h3>
