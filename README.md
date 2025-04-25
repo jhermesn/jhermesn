@@ -1,16 +1,16 @@
 <h1 align="center" style="text-decoration: none; border-bottom: none;">👋 Welcome to my GitHub!</h1>
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
 
   <!-- Dev.to -->
   <a href="https://dev.to/jhermesn" target="_blank" style="text-decoration: none;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=dev.to&logoColor=FFFFFF&color=111111&labelColor=111111" />
+        srcset="https://api.iconify.design/simple-icons:dev-dot-to.svg?height=40&color=%23FFFFFF" />
       <img
+        src="https://api.iconify.design/simple-icons:dev-dot-to.svg?height=40&color=%230A0A0A"
         alt="Dev.to"
-        src="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=dev.to&logoColor=000000&color=FFFFFF&labelColor=FFFFFF"
         height="40" />
     </picture>
   </a>
@@ -20,23 +20,23 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=linkedin&logoColor=FFFFFF&color=111111&labelColor=111111" />
+        srcset="https://api.iconify.design/simple-icons:linkedin.svg?height=40&color=%23FFFFFF" />
       <img
+        src="https://api.iconify.design/simple-icons:linkedin.svg?height=40&color=%230077B5"
         alt="LinkedIn"
-        src="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=linkedin&logoColor=0077B5&color=FFFFFF&labelColor=FFFFFF"
         height="40" />
     </picture>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:jorgehermes@jhermesn.dev" style="text-decoration: none;" target="_blank">
+  <a href="mailto:jorgehermes@jhermesn.dev" target="_blank" style="text-decoration: none;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=gmail&logoColor=FFFFFF&color=111111&labelColor=111111" />
+        srcset="https://api.iconify.design/simple-icons:gmail.svg?height=40&color=%23FFFFFF" />
       <img
+        src="https://api.iconify.design/simple-icons:gmail.svg?height=40&color=%23EA4335"
         alt="Gmail"
-        src="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=gmail&logoColor=EA4335&color=FFFFFF&labelColor=FFFFFF"
         height="40" />
     </picture>
   </a>
@@ -46,10 +46,10 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=stackoverflow&logoColor=FFFFFF&color=111111&labelColor=111111" />
+        srcset="https://api.iconify.design/simple-icons:stackoverflow.svg?height=40&color=%23FFFFFF" />
       <img
+        src="https://api.iconify.design/simple-icons:stackoverflow.svg?height=40&color=%23FE7A16"
         alt="Stack Overflow"
-        src="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=stackoverflow&logoColor=FE7A16&color=FFFFFF&labelColor=FFFFFF"
         height="40" />
     </picture>
   </a>
@@ -59,15 +59,16 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=tryhackme&logoColor=FFFFFF&color=111111&labelColor=111111" />
+        srcset="https://api.iconify.design/simple-icons:tryhackme.svg?height=40&color=%23FFFFFF" />
       <img
+        src="https://api.iconify.design/simple-icons:tryhackme.svg?height=40&color=%23212C42"
         alt="TryHackMe"
-        src="https://img.shields.io/static/v1?style=flat-square&label=&message=&logo=tryhackme&logoColor=212C42&color=FFFFFF&labelColor=FFFFFF"
         height="40" />
     </picture>
   </a>
 
 </div>
+
 
 
 <h3 align="left">👩‍💻 About Me</h3>
