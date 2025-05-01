@@ -58,7 +58,7 @@
 <p align="left">
   👋 Hello! I'm Jorge Hermes, a Software Engineering student (2nd/8th semester) at the University of State of Pará (UEPA) in Ananindeua, Brazil. I currently work as a Software Engineering Intern at COSANPA, contributing to systems for data visualization and operational management.<br/><br/>
   🚀 My core passion lies at the intersection of Software Development, Security, and Operations (DevSecOps). I focus on building secure, scalable Full-Stack applications and leveraging Cloud Computing (primarily AWS) and robust DevOps practices.<br/><br/>
-  🔍 I'm driven by curiosity and continuously learning – currently deepening my knowledge in Go, Rust, advanced AWS services (completing AWS re:Start), and exploring cybersecurity concepts hands-on via platforms like TryHackMe.<br/><br/>
+  🔍 I'm driven by curiosity and continuously learning – currently deepening my knowledge in Go, Rust, advanced AWS and cloud computing services (completing AWS re:Start), and exploring cybersecurity concepts hands-on via platforms like TryHackMe.<br/><br/>
   🎯 My ambition is to specialize as a DevSecOps Engineer, automating and securing the entire software delivery pipeline.<br/><br/>
   🌐 Communication: Native Portuguese speaker, fluent in English (C2), and currently learning German (A1) and Spanish (A1).<br/><br/>
   💡 I'm actively seeking challenging opportunities and collaborations within the tech industry. Feel free to explore my projects below and reach out via LinkedIn or email!
