@@ -57,8 +57,8 @@
 
 <p align="left">
   👋 Hello! I'm Jorge Hermes, a Software Architecture Intern at Gaudium and a third-semester Software Engineering student at the State University of Pará (UEPA) with a 3.9 GPA. My programming journey began at age 8, and today my passion lies in DevSecOps and building secure, scalable, cloud-native systems.<br/><br/>
-  🚀 I'm an **AWS Certified Cloud Practitioner** (912/1000) and hold a **Google Cybersecurity Certificate**. I enjoy contributing to the tech community by speaking at events like Python Norte (on Serverless Architecture) and organizing workshops. My key projects include **Estuda.Ai**, a 100% serverless AI platform to democratize education, and contributions to Roblox projects that have surpassed **800 million visits**.<br/><br/>
-  🎯 My goal is to specialize as a **DevSecOps Engineer**, focusing on automating and securing the entire software delivery pipeline. I'm always seeking challenging opportunities to apply and expand my skills.<br/><br/>
+  🚀 I'm an <strong>AWS Certified Cloud Practitioner</strong> (912/1000) and hold a <strong>Google Cybersecurity Certificate</strong>. I enjoy contributing to the tech community by speaking at events like Python Norte (on Serverless Architecture) and organizing workshops. My key projects include <strong>Estuda.Ai</strong>, a 100% serverless AI platform to democratize education, and contributions to Roblox projects that have surpassed <strong>800 million visits</strong>.<br/><br/>
+  🎯 My goal is to specialize as a <strong>DevSecOps Engineer</strong>, focusing on automating and securing the entire software delivery pipeline. I'm always seeking challenging opportunities to apply and expand my skills.<br/><br/>
   🌐 I'm a native Portuguese speaker, fluent in English (C2), and I'm currently learning German and Spanish. Feel free to explore my projects and connect with me!
 </p>
 
