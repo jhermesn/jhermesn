@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Software Engineering Student @ <a href="https://uepa.br/" target="_blank">UEPA</a> | Software Engineering Intern @ <a href="https://www.cosanpa.pa.gov.br/" target="_blank">COSANPA</a> | Aspiring DevSecOps Engineer<br/>
+    Software Engineering Student @ <a href="https://uepa.br/" target="_blank">UEPA</a> | Software Architecture Intern @ <a href="https://www.gaudium.global/" target="_blank">Gaudium</a> | Aspiring DevSecOps Engineer<br/>
     Ananindeua, Pará, Brazil 🇧🇷
   </em>
 </p>
@@ -56,12 +56,10 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  👋 Hello! I'm Jorge Hermes, a Software Engineering student (2nd/8th semester) at the University of State of Pará (UEPA) in Ananindeua, Brazil. I currently work as a Software Engineering Intern at COSANPA, contributing to systems for data visualization and operational management.<br/><br/>
-  🚀 My core passion lies at the intersection of Software Development, Security, and Operations (DevSecOps). I focus on building secure, scalable Full-Stack applications and leveraging Cloud Computing (primarily AWS) and robust DevOps practices.<br/><br/>
-  🔍 I'm driven by curiosity and continuously learning – currently deepening my knowledge in Go, Rust, advanced AWS and cloud computing services (completing AWS re:Start), and exploring cybersecurity concepts hands-on via platforms like TryHackMe.<br/><br/>
-  🎯 My ambition is to specialize as a DevSecOps Engineer, automating and securing the entire software delivery pipeline.<br/><br/>
-  🌐 Communication: Native Portuguese speaker, fluent in English (C2), and currently learning German (A1) and Spanish (A1).<br/><br/>
-  💡 I'm actively seeking challenging opportunities and collaborations within the tech industry. Feel free to explore my projects below and reach out via LinkedIn or email!
+  👋 Hello! I'm Jorge Hermes, a Software Architecture Intern at Gaudium and a third-semester Software Engineering student at the State University of Pará (UEPA) with a 3.9 GPA. My programming journey began at age 8, and today my passion lies in DevSecOps and building secure, scalable, cloud-native systems.<br/><br/>
+  🚀 I'm an **AWS Certified Cloud Practitioner** (912/1000) and hold a **Google Cybersecurity Certificate**. I enjoy contributing to the tech community by speaking at events like Python Norte (on Serverless Architecture) and organizing workshops. My key projects include **Estuda.Ai**, a 100% serverless AI platform to democratize education, and contributions to Roblox projects that have surpassed **800 million visits**.<br/><br/>
+  🎯 My goal is to specialize as a **DevSecOps Engineer**, focusing on automating and securing the entire software delivery pipeline. I'm always seeking challenging opportunities to apply and expand my skills.<br/><br/>
+  🌐 I'm a native Portuguese speaker, fluent in English (C2), and I'm currently learning German and Spanish. Feel free to explore my projects and connect with me!
 </p>
 
 <br>
