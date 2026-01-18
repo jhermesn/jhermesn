@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Software Engineering Student @ <a href="https://uepa.br/" target="_blank">UEPA</a> | Software Architecture Intern @ <a href="https://www.gaudium.global/" target="_blank">Gaudium</a> | Aspiring DevSecOps Engineer<br/>
+    Software Engineering Student @ <a href="https://uepa.br/" target="_blank">UEPA</a> | Aspiring DevSecOps Engineer<br/>
     Ananindeua, Pará, Brazil 🇧🇷
   </em>
 </p>
