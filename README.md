@@ -22,6 +22,10 @@
 
 <p align="left">👋 Hey! I'm Jorge Hermes, a fourth-semester Software Engineering student at the State University of Pará (UEPA) with a 3.9 GPA. My programming journey began at age 8, and today I have over a year of proven professional experience focused on Software Architecture and designing distributed and secure, cloud-native systems.<br><br>🚀 My professional focus lies in shipping critical features for high-performance systems. I specialize in applying modern design patterns to ensure architectural integrity and leveraging advanced observability to monitor distributed environments. Beyond delivery, I am committed to operational excellence, regularly automating manual workflows and conducting rigorous code reviews to guarantee system scalability and long-term maintainability.<br><br>🏗️ I am an AWS Certified Cloud Practitioner (912/1000) and hold a Google Cybersecurity Certificate. Beyond corporate environments, I’ve contributed to high-concurrency engineering for Roblox systems serving over 800 million visits, proving my ability to handle massive scale.<br><br>🎯 My goal is to specialize as a Software Architect, focusing on the design of resilient, distributed systems and scalable cloud infrastructures. I am driven by the challenge of bridging the gap between complex business requirements and robust technical execution, ensuring that every system I design is built for performance, security, and long-term evolution.<br><br>🌐 Native Portuguese speaker, Fluent English (C2), and currently learning German and Spanish. Let’s build something secure and scalable!</p>
 
+<p align="center">
+https://www.credly.com/users/jhermesn/badges#credly
+</p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
