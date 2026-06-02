@@ -16,14 +16,44 @@
 
 ###
 
-<h4 align="left">👩‍💻  ABOUT ME</h4>
+<h4 align="left">👨‍💻 ABOUT ME</h4>
 
 ###
 
-<p align="left">👋 Hey! I’m Jorge Hermes, a fourth-semester Software Engineering student at the State University of Pará (UEPA) with a 4.0 GPA. My programming journey began at age 8, and today I have proven professional experience in DevOps, Software Architecture, and distributed systems.<br><br>🚀 Currently, I work as a DevOps Engineer Intern at DreamSquad, configuring and maintaining CI/CD pipelines focused on agility, security, and quality control, automating operational processes, supporting cloud infrastructure for client companies, and creating system-layer monitoring. Previously, I specialized in Software Architecture at Gaudium, delivering critical features in Go and PHP with advanced observability, and in data intelligence at the Ministry of Health’s PET-Saúde Digital program.<br><br>🏗️ I am an AWS Certified Cloud Practitioner (912/1000) and Google Cybersecurity Certificate holder. I am the **first GitHub Campus Expert** and the **first AWS Student Builder Group Leader in Northern Brazil** — recognitions I hold alongside leadership roles at **Kortex UFPA**, **Kernel UEPA**, **GruPy Pará**, and **CTO at CAESoft**. I founded and lead the **AWS Student Builder Group at UEPA**, organizing a cloud fundamentals meetup with 150+ attendees and a CTF on AWS security vulnerabilities. Beyond corporate environments, I led the architecture, DevOps, infrastructure, and teams for **SIGRA**, an academic reservation management system delivered to production for UEPA Ananindeua, and contributed to high-concurrency engineering for Roblox systems serving over 800 million visits.<br><br>🎯 My goal is to specialize as a DevSecOps Engineer, automating and securing the full software delivery pipeline — from code to production. I’m driven by the challenge of building secure, reliable, and observable systems at scale.<br><br>🌐 Native Portuguese speaker, Fluent English (C2), and currently learning German and Spanish. Let’s build something secure and scalable!</p>
+I'm **Jorge Hermes**, a fourth-semester Software Engineering student at UEPA (4.0 GPA) from Belém, Pará, Brazil. My programming journey began at age 8, and today I have proven professional experience in DevOps, Software Architecture, and distributed systems.
+
+**🚀 Currently**
+- **DevOps Engineer Intern @ DreamSquad** — CI/CD pipelines, cloud infrastructure, system-layer monitoring for client companies
+- **Technical Researcher @ Ministry of Health (PET-Saúde Digital)** — data intelligence, Design Thinking, data security
+
+**💼 Previously**
+- **Software Architect Intern @ Gaudium** — architectural modernization in PHP/Go, observability, resilience patterns
+- **Software Engineer Intern @ COSANPA** — industrial monitoring systems, database modeling
+
+**🏆 Recognition**
+- **First GitHub Campus Expert in Northern Brazil**
+- **First AWS Student Builder Group Leader in Northern Brazil**
+- AWS Certified Cloud Practitioner (912/1000)
+- Google Cybersecurity Certificate
+
+**🌐 Community & Leadership**
+- Founder & Leader — **AWS Student Builder Group UEPA** *(150+ attendees meetup · AWS security CTF)*
+- AWS Student Builder Campus Leader
+- Leader @ **Kortex UFPA** · **Kernel UEPA** · **GruPy Pará**
+- CTO @ **CAESoft** (UEPA Academic Center)
+- Organizer — **AWS Community Day Norte** · **Python Norte 2026**
+
+**📦 Notable Projects**
+- **SIGRA** — led architecture, DevOps, infra & teams for an academic reservation system in production @ UEPA Ananindeua
+- **Estuda.Ai** — 100% serverless AI platform to democratize ENEM prep
+- **Roblox** — high-concurrency engineering on systems with 800M+ visits
+
+**🎯 Goal:** Specialize as a **DevSecOps Engineer**, automating and securing the full software delivery pipeline — from code to production.
+
+**🌍** Native Portuguese · Fluent English (C2) · Learning German & Spanish
 
 <p align="center">
-https://www.credly.com/users/jhermesn/badges#credly
+  <a href="https://www.credly.com/users/jhermesn/badges">📜 View my Credly badges</a>
 </p>
 
 ###
