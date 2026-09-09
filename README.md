@@ -40,7 +40,7 @@ I'm **Jorge Hermes**, a fifth-semester Software Engineering student at UEPA (4.0
 - Google Cybersecurity Certificate
 
 **🌐 Community & Leadership**
-- Founder & Leader — **AWS Student Builder Group UEPA** — **314+ members**, first in Northern Brazil and an international quality reference: SBGLs and SBCLs from other regions and countries reach out for guidance, and the model inspired chapters at UFPA, UNAMA, IFPA, Estácio, Faci Wyden and Cruzeiro do Sul *(1st AWS Cloud Club Meetup with 200+ in-person attendees · 1st cloud computing CTF on AWS security · AWS AI&ML Day — 100% volunteer-run)*
+- Founder & Leader — **AWS Student Builder Group UEPA** — **314+ members**, first in Northern Brazil and an international quality reference: SBGLs and SBCLs from other regions and countries reach out for guidance, and the model inspired chapters at UFPA, UNAMA, IFPA, Estácio, Faci Wyden and Cruzeiro do Sul *(first meetup on cloud fundamentals with 200+ in-person attendees · 1st cloud computing CTF on AWS security · AWS AI&ML Day — 100% volunteer-run)*
 - Core team: **80% employability in tech**, **5 of 6 AWS certified** (2 at Associate level)
 - AWS Student Builder Campus Leader — mentor and invite new SBGLs, turning other universities into official groups
 - Leader @ **Kortex UFPA** · **Kernel UEPA** · **GruPy Pará**
