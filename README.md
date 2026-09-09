@@ -20,7 +20,7 @@
 
 ###
 
-I'm **Jorge Hermes**, a fourth-semester Software Engineering student at UEPA (4.0 GPA) from Belém, Pará, Brazil. My programming journey began at age 8, and today I have proven professional experience in DevOps, Software Architecture, and distributed systems.
+I'm **Jorge Hermes**, a fifth-semester Software Engineering student at UEPA (4.0 GPA) from Belém, Pará, Brazil. My programming journey began at age 8, and today I have proven professional experience in DevOps, Software Architecture, and distributed systems.
 
 **🚀 Currently**
 - **DevOps Engineer Intern @ DreamSquad** — CI/CD pipelines, cloud infrastructure, system-layer monitoring for client companies
@@ -31,21 +31,26 @@ I'm **Jorge Hermes**, a fourth-semester Software Engineering student at UEPA (4.
 - **Software Engineer Intern @ COSANPA** — industrial monitoring systems, database modeling
 
 **🏆 Recognition**
+- **Speaker @ AWS Summit São Paulo 2026** — the only AWS Student Builder Group Leader in Brazil selected, talking DevOps at the Community Developer Lounge
 - **First GitHub Campus Expert in Northern Brazil**
-- **First AWS Student Builder Group Leader in Northern Brazil**
+- **First AWS Student Builder Group Leader in Northern Brazil** — international reference of leadership & group success for SBGLs worldwide
+- AWS Certified Solutions Architect – Associate *(Jul 2026)*
+- AWS Certified AI Practitioner *(Aug 2026)*
 - AWS Certified Cloud Practitioner (912/1000)
 - Google Cybersecurity Certificate
 
 **🌐 Community & Leadership**
-- Founder & Leader — **AWS Student Builder Group UEPA** *(150+ attendees meetup · AWS security CTF)*
-- AWS Student Builder Campus Leader
+- Founder & Leader — **AWS Student Builder Group UEPA** — **314+ members**, first in Northern Brazil and an international quality reference: SBGLs and SBCLs from other regions and countries reach out for guidance, and the model inspired chapters at UFPA, UNAMA, IFPA, Estácio, Faci Wyden and Cruzeiro do Sul *(1st AWS Cloud Club Meetup with 200+ in-person attendees · 1st cloud computing CTF on AWS security · AWS AI&ML Day — 100% volunteer-run)*
+- Core team: **80% employability in tech**, **5 of 6 AWS certified** (2 at Associate level)
+- AWS Student Builder Campus Leader — mentor and invite new SBGLs, turning other universities into official groups
 - Leader @ **Kortex UFPA** · **Kernel UEPA** · **GruPy Pará**
 - CTO @ **CAESoft** (UEPA Academic Center)
 - Organizer — **AWS Community Day Norte** · **Python Norte 2026**
 
 **📦 Notable Projects**
 - **SIGRA** — led architecture, DevOps, infra & teams for an academic reservation system in production @ UEPA Ananindeua
-- **Estuda.Ai** — 100% serverless AI platform to democratize ENEM prep
+- **[Kener](https://github.com/rajnandan1/kener)** — open-source contributor to a status page & uptime monitoring platform
+- **AWS Terraform modules** — public, reusable modules for EC2, VPC, Security Groups & Auto Scaling
 - **Roblox** — high-concurrency engineering on systems with 800M+ visits
 
 **🎯 Goal:** Specialize as a **DevSecOps Engineer**, automating and securing the full software delivery pipeline — from code to production.
