@@ -24,7 +24,8 @@ I'm **Jorge Hermes**, a fifth-semester Software Engineering student at UEPA (4.0
 
 **🚀 Currently**
 - **DevOps Engineer Intern @ DreamSquad** — CI/CD pipelines, cloud infrastructure, system-layer monitoring for client companies
-- **Technical Researcher @ Ministry of Health (PET-Saúde Digital)** — data intelligence, Design Thinking, data security
+- **Monitor (CNPq) @ PET-Saúde Digital, Ministry of Health** — data intelligence, 3NF data modeling, sensitive-data governance
+- **Research Volunteer @ UEPA** — convolutional model for skin cancer classification
 
 **💼 Previously**
 - **Software Architect Intern @ Gaudium** — architectural modernization in PHP/Go, observability, resilience patterns
@@ -37,6 +38,7 @@ I'm **Jorge Hermes**, a fifth-semester Software Engineering student at UEPA (4.0
 - AWS Certified Solutions Architect – Associate *(Jul 2026)*
 - AWS Certified AI Practitioner *(Aug 2026)*
 - AWS Certified Cloud Practitioner (912/1000)
+- Claude Certified Architect – Foundations (886/1000) *(Oct 2026)*
 - Google Cybersecurity Certificate
 
 **🌐 Community & Leadership**
@@ -44,11 +46,14 @@ I'm **Jorge Hermes**, a fifth-semester Software Engineering student at UEPA (4.0
 - Core team: **80% employability in tech**, **5 of 6 AWS certified** (2 at Associate level)
 - AWS Student Builder Campus Leader — mentor and invite new SBGLs, turning other universities into official groups
 - Leader @ **Kortex UFPA** · **Kernel UEPA** · **GruPy Pará**
-- CTO @ **CAESoft** (UEPA Academic Center)
+- Former CTO @ **CAESoft** (UEPA Academic Center, 2024–2026)
 - Organizer — **AWS Community Day Norte** · **Python Norte 2026**
 
 **📦 Notable Projects**
-- **SIGRA** — led architecture, DevOps, infra & teams for an academic reservation system in production @ UEPA Ananindeua
+- **[Easy Review](https://jhermesn.dev/easyreview/)** — free study notes, diagrams and spaced-repetition flashcards for AWS Certification exams, written from the AWS documentation
+- **[Wrong Answer Labs](https://github.com/jhermesn/wrong-answer-labs)** — turns missed AWS practice questions into hands-on CloudFormation labs with an automated grader
+- **[Redocted](https://jhermesn.dev/redocted/)** — daily game: reveal a redacted AWS or Kubernetes docs page by guessing words
+- **SIGRA** — led architecture, DevOps, infra & teams for an academic reservation system in production @ UEPA Ananindeua (software registration BR512026006789-8)
 - **[Kener](https://github.com/rajnandan1/kener)** — open-source contributor to a status page & uptime monitoring platform
 - **AWS Terraform modules** — public, reusable modules for EC2, VPC, Security Groups & Auto Scaling
 - **Roblox** — high-concurrency engineering on systems with 800M+ visits
